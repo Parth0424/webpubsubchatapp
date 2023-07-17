@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "/xhC8h3tu1j3CA4ERLVxpnEEO9pF59SQi7zsblaKnuQ=",
+  "Source": "pubsubchatapp",
+  "BasePath": "_content/pubsubchatapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "pubsubchatapp\\wwwroot",
+      "Source": "pubsubchatapp",
+      "ContentRoot": "C:\\Users\\158227\\Downloads\\pubsubchatapp\\wwwroot\\",
+      "BasePath": "_content/pubsubchatapp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\158227\\Downloads\\pubsubchatapp\\wwwroot\\index.html",
+      "SourceId": "pubsubchatapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\158227\\Downloads\\pubsubchatapp\\wwwroot\\",
+      "BasePath": "_content/pubsubchatapp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
